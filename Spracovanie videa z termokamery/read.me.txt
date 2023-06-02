@@ -1,0 +1,7 @@
+Naša aplikácia pripraví príjma na vstupe video vo formáte avi. Tiež je potrebné vybrať dolné a horné ohraničenie teploty a vybrať
+miesto kde sa výsledné video uloží. V grafickom užívateľskom rozhraní sú jednotlivé časti výstižné popísané a navigujú nás.
+
+V súbore processingThermal.py môžeme vidieť kód našej aplikácie tiež sputiť našu aplikáciu.
+
+V jednotlivých priečinkoch sú naše testovacie obrázky a videá.
+

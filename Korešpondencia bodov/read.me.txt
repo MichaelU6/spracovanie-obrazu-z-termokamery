@@ -1,0 +1,3 @@
+V tejto časti je zhrnutý náš pokus o korešpondeciu bodov medzi dvoma termozáberami.
+
+Využili sme tri rôzne algoritmy. Pre každý algoritmus je uvedený zdrojový kód a výsledky v podobe obrázkov.
