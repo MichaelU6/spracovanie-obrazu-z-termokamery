@@ -1,3 +1,14 @@
-V tejto časti je zhrnutý náš pokus o korešpondeciu bodov medzi dvoma termozáberami.
+Korešpondencia bodov medzi termozábermi
+V tejto časti sú zhrnuté naše pokusy o korešpondenciu bodov medzi dvoma termozábermi. Pre túto úlohu sme využili tri rôzne algoritmy a ich zdrojový kód je uvedený nižšie. Okrem toho sme získali výsledky týchto algoritmov vo forme obrázkov.
 
-Využili sme tri rôzne algoritmy. Pre každý algoritmus je uvedený zdrojový kód a výsledky v podobe obrázkov.
+Algoritmus 1: 
+Zdrojový kód
+Výsledky
+Algoritmus 2: 
+Zdrojový kód
+Výsledky
+Algoritmus 3: 
+Zdrojový kód
+Výsledky
+
+Tieto pokusy s korešpondenciou bodov medzi termozábermi poskytujú cenné poznatky a výsledky, ktoré môžu byť využité pri ďalšom vývoji a výskume v tejto oblasti.
