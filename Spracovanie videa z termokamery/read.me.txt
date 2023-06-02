@@ -1,7 +1,19 @@
-Naša aplikácia pripraví príjma na vstupe video vo formáte avi. Tiež je potrebné vybrať dolné a horné ohraničenie teploty a vybrať
-miesto kde sa výsledné video uloží. V grafickom užívateľskom rozhraní sú jednotlivé časti výstižné popísané a navigujú nás.
+Spracovanie videa z termokamery SEEK THERMAL
+Táto aplikácia slúži na spracovanie termografických videí vo formáte AVI. Umožňuje nastaviť dolné a horné ohraničenie teploty a vybrať miesto, kde sa uloží výsledné video. Grafické užívateľské rozhranie poskytuje prehľadné popisy jednotlivých častí aplikácie a navigáciu.
 
-V súbore processingThermal.py môžeme vidieť kód našej aplikácie tiež sputiť našu aplikáciu.
+Spustenie aplikácie
+Pre spustenie aplikácie použite súbor processingThermal.py. Tento súbor obsahuje kód, ktorý umožňuje spustiť aplikáciu. Tiež je možnosť priamo spustiť aplikáciu súborom  processingThermal.exe.
 
-V jednotlivých priečinkoch sú naše testovacie obrázky a videá.
+Testovacie obrázky a videá
+V priečinkoch aplikácie sa nachádzajú testovacie obrázky a videá, ktoré môžu byť použité na overenie funkčnosti aplikácie.
 
+Inštalácia
+Pred používaním tejto aplikácie je potrebné nainštalovať všetky potrebné závislosti. 
+
+Použitie
+Spustite aplikáciu pomocou súboru processingThermal.py.
+Vyberte termografické video vo formáte AVI na vstupe.
+Nastavte dolné a horné ohraničenie teploty.
+Vyberte miesto, kde sa uloží výsledné video.
+Kliknite na tlačidlo "Spracovať" a počkajte, kým sa dokončí spracovanie.
+Výsledné video bude uložené na zvolenom mieste.
