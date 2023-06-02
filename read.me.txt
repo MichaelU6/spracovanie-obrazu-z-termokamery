@@ -1,0 +1,13 @@
+
+Readme
+V tomto repozitári sa nachádzajú dva dôležité súbory, ktoré popisujú kroky na pochopenie dvoch rôznych aspektov práce s termokamerou.
+
+1. Korešpondencia bodov medzi zábermi
+V súbore korespondencia_bodov.md nájdete podrobný popis krokov na pochopenie a implementáciu korešpondencie bodov medzi dvoma zábermi z termokamery. Tento súbor poskytuje návod a informácie o tom, ako vytvoriť spojenie medzi bodmi v rôznych záberoch a ako správne interpretovať výsledky.
+
+2. Spracovanie záberu z termokamery
+V súbore spracovanie_zaberu.md nájdete podrobný popis krokov na pochopenie a implementáciu spracovania záberu z termokamery. Tento súbor vám poskytuje informácie o tom, ako správne načítať a analyzovať zábery z termokamery, ako extrahovať teplotné dáta a ako ich spracovať pre ďalšie použitie.
+
+Pre ľahšie pochopenie a implementáciu odporúčame postupovať podľa uvedených krokov v jednotlivých súboroch. Tieto dokumenty vám poskytnú potrebné usmernenie a vysvetlenie, ako pracovať s termokamerou a efektívne spracovať jej zábery.
+
+Dúfame, že vám tieto súbory pomôžu lepšie porozumieť a využívať potenciál termokamery vo vašich projektoch a aplikáciách. Ak máte akékoľvek otázky alebo nejasnosti, neváhajte nás kontaktovať.
